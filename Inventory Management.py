@@ -1,5 +1,4 @@
 # Name: Mahad Ahmed
-# Date: December 4th, 2019
 # File Name: Inventory Management.py
 # Description: Program to keep track of Inventory
 # Test cases: a,r,e,c,s,v,q,d
